@@ -1,0 +1,84 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+span{
+    color: #10B981;
+}
+p{
+    color:white;
+    font-style: italic;
+}
+button{
+    background-color: #10B981;
+    ;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+
+}
+img{
+    width: 10px;
+    height: 10px;
+
+}
+
+#container{
+    width: 60%;
+    background-color: #1F2937;
+    margin-left: 25%;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 4;
+    padding-top: 20px;
+    overflow: hidden;
+}
+
+hr.solid{
+    border-top: 3px solid #bbb;
+    margin-right: 5px;
+}
+
+#result1{
+    float: left;
+    width: 45%;
+    height: 25px;
+    background-color: #273549;
+    border-radius: 6px;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: white;
+}
+#result2{
+    width: 45%;
+    height: 25px;
+    background-color: #273549;
+    border-radius: 6px;
+    overflow: hidden;
+    margin-left: 10px;
+    color: white;
+}
+#result3{
+    float: left;
+    width: 45%;
+    height: 25px;
+    background-color: #273549;
+    border-radius: 6px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: white;
+}
+#result4{
+    width: 45%;
+    height: 25px;
+    background-color: #273549;
+    border-radius: 6px;
+    overflow: hidden;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: white;
+}
